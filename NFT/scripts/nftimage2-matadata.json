@@ -1,0 +1,16 @@
+{
+    "attributes":[
+        {
+            "trait_type": "Joker",
+            "value" : "Dashing"
+        },
+        {
+            "trait_type": "image",
+            "value": "Stylish"
+        }
+        
+    ],
+    "description":"joker image ,and i am using this image for nft development",
+    "image":"https://gateway.pinata.cloud/ipfs/QmTkVqNiav8VoVnughwxi4NZmPuWrRPyTvALU56SiTrAQw",
+    "name":"Joker NFT"
+}
